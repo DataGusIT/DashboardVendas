@@ -41,8 +41,10 @@ Este dashboard foi desenvolvido no **Power BI** para fornecer uma visão complet
 ## 🌟 Sobre o Projeto
 Este projeto tem como objetivo facilitar a análise de dados de vendas, transformando números em informações úteis para tomada de decisões estratégicas. Caso tenha alguma sugestão ou dúvida, fique à vontade para contribuir! 😃📊
 
-🚀 **Desenvolvido por:** Gustavo(https://www.linkedin.com/in/gustavo-moreno-8a925b26a)  
+🚀 **Desenvolvido por:** [Gustavo](https://www.linkedin.com/in/gustavo-moreno-8a925b26a)  
 
 ---
+
+
 
 
