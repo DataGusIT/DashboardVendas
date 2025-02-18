@@ -2,6 +2,8 @@
 
 Bem-vindo ao **Dashboard de Vendas**! 🚀 Aqui você encontra insights poderosos sobre o desempenho das vendas ao longo do tempo. Com uma análise visual e interativa, fica fácil entender os principais indicadores e tomar decisões estratégicas. 💡
 
+![Image](https://github.com/user-attachments/assets/f3a3cdaf-accc-41dd-b1aa-b28c2b6348b7)
+
 ## 📌 Visão Geral
 Este dashboard foi desenvolvido no **Power BI** para fornecer uma visão completa do faturamento e volume de vendas. Ele permite uma análise detalhada dos dados, respondendo perguntas como:
 
