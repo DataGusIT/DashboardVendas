@@ -42,6 +42,7 @@ Este dashboard foi desenvolvido no **Power BI** para fornecer uma visão complet
 Este projeto tem como objetivo facilitar a análise de dados de vendas, transformando números em informações úteis para tomada de decisões estratégicas. Caso tenha alguma sugestão ou dúvida, fique à vontade para contribuir! 😃📊
 
 🚀 **Desenvolvido por:** [Gustavo](https://www.linkedin.com/in/gustavo-moreno-8a925b26a)  
+🔗 **Acesse o Dashboard Aqui:** [Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiMmEyODhjODAtNjdiYS00MzJjLWIyZmEtMDgyNzY5ODMzZmQ0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)  
 
 ---
 
