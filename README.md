@@ -2,6 +2,7 @@
 
 Bem-vindo ao **Dashboard de Vendas**! 🚀 Aqui você encontra insights poderosos sobre o desempenho das vendas ao longo do tempo. Com uma análise visual e interativa, fica fácil entender os principais indicadores e tomar decisões estratégicas. 💡
 
+## 📸 **Preview do Dashboard**
 ![Image](https://github.com/user-attachments/assets/f3a3cdaf-accc-41dd-b1aa-b28c2b6348b7)
 
 ## 📌 Visão Geral
